@@ -58,35 +58,3 @@ Run pylint for code quality check:
 ```bash
 pylint server.py
 ```
-
-## Tasks Completed
-
-- [x] Task 1: Project repository structure ✅
-- [x] Task 2: Emotion detection application using Watson NLP ✅
-- [x] Task 3: Format output of the application ✅
-- [x] Task 4: Package the application ✅
-- [x] Task 5: Unit tests ✅
-- [x] Task 6: Flask web deployment ✅
-- [x] Task 7: Error handling ✅
-- [x] Task 8: Static code analysis (10/10 score) ✅
-
-## Screenshots Required for Submission
-
-For peer review, capture the following screenshots:
-
-1. **Task 1**: `1_folder_structure.png` - Project folder structure
-2. **Task 2a**: `2a_emotion_detection.png` - Emotion detection function code
-3. **Task 2b**: `2b_application_creation.png` - Successful import test
-4. **Task 3a**: `3a_output_formatting.png` - Modified emotion_predictor function
-5. **Task 3b**: `3b_formatted_output_test.png` - Output format validation
-6. **Task 4a**: `4a_packaging.png` - Package structure and **init**.py
-7. **Task 4b**: `4b_packaging_test.png` - Package import validation
-8. **Task 5a**: `5a_unit_testing.png` - Unit test code
-9. **Task 5b**: `5b_unit_testing_result.png` - All tests passing
-10. **Task 6a**: `6a_server.png` - Flask server.py code
-11. **Task 6b**: `6b_deployment_test.png` - Web application running
-12. **Task 7a**: `7a_error_handling_function.png` - Enhanced error handling
-13. **Task 7b**: `7b_error_handling_server.png` - Server error handling
-14. **Task 7c**: `7c_error_handling_interface.png` - Error handling validation
-15. **Task 8a**: `8a_server_modified.png` - Server.py improvements
-16. **Task 8b**: `8b_static_code_analysis.png` - Perfect 10/10 pylint score
